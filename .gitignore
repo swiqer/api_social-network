@@ -1,0 +1,10 @@
+.git/*
+
+__pycache__/
+*.py[cod]
+
+.idea
+.DS_Store
+.AppleDouble
+.LSOverride
+.vscode
