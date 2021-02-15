@@ -13,7 +13,7 @@
 <pre>
 <code>python3 manage.py runserver</code>
 </pre>
-<h2>Инструкция для api:</h2>
+<h2>Документация по API Yatube:</h2>
 <pre>
 <code><b>URL -</b> 127.0.0.1:8000/redoc/ </code>
 </pre>
